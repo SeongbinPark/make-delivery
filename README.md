@@ -1,3 +1,6 @@
+1. 22.09.06 ~
+
+
 # make-delivery 서버 구조도
 ![real](https://user-images.githubusercontent.com/34911552/102442304-772a4480-4067-11eb-839f-2d986933cde6.png)
 
